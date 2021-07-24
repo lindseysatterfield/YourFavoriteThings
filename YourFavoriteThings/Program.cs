@@ -27,8 +27,6 @@ namespace YourFavoriteThings
             pringles.Shape = "wavy";
             Console.WriteLine($"The best brand of chips are {pringles.Brand} that have a flavor of {pringles.Flavor}.");
             pringles.Crunch();
-
-            
         }
     }
 }
